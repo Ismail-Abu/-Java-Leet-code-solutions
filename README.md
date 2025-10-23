@@ -1,4 +1,4 @@
-# Hello, World �
+# Hello, World 
 
 I'm **Ismail Abu-Shanab**, an aspiring problem solver with a passion for coding and growth. My current goal is to tackle challenges from the LeetCode app and share my solutions with the world — not just to show what I’ve learned, but to help others learn too.
 
